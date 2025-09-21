@@ -37,10 +37,15 @@ Perform groupings on a categorical column (for example, species, region, or depa
 Identify any patterns or interesting findings from your analysis.
 # *Task 3: Data Visualization*
 Create at least four different types of visualizations:
+
 Line chart showing trends over time (for example, a time-series of sales data).
+
 Bar chart showing the comparison of a numerical value across categories (e.g., average petal length per species).
+
 Histogram of a numerical column to understand its distribution.
+
 Scatter plot to visualize the relationship between two numerical columns (e.g., sepal length vs. petal length).
+
 Customize your plots with titles, labels for axes, and legends where necessary.
 
 
